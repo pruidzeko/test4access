@@ -1,6 +1,0 @@
-Option Compare Database
-
-Function A() As Boolean
-Rem
-    A = True
-End Function
